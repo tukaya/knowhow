@@ -1,2 +1,4 @@
 # knowhow
-Collection of notes and key points from experiences built over time from my professional career
+Collection of notes and key points from experiences built over time
+
+All opinions are of my own
